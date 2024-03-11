@@ -2,4 +2,4 @@
 
 ## tech used Syncfusion, postgreSQL, Asp.net Identity for user management
 
-![alt]('./POSTGESQLCRUD.UI/wwwroot/img.png')
+![alt](./POSTGESQLCRUD.UI/wwwroot/img.png)
